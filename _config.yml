@@ -16,7 +16,7 @@ timezone: Asia/Shanghai
 
 title: My Personal Blog # the main title
 
-tagline: Tech & Thoughts # it will display as the subtitle
+tagline: OpenDev-Hub · Tech & Thoughts # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
