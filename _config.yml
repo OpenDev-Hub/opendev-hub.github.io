@@ -131,14 +131,14 @@ comments:
   # Giscus options › https://giscus.app
   giscus:
     repo: OpenDev-Hub/opendev-hub.github.io # <gh-username>/<repo>
-    repo_id:
+    repo_id: R_kgDOT4FT6W
     category: General
-    category_id:
+    category_id: DIC_kwDOT4FT684DDWOW
     mapping: pathname # optional, default to 'pathname'
     strict: 0 # optional, default to '0'
     input_position: bottom # optional, default to 'bottom'
     lang: zh-CN # optional, default to the value of `site.lang`
-    reactions_enabled: # optional, default to the value of `1`
+    reactions_enabled: 1 # optional, default to the value of `1`
 
 # Self-hosted static assets, optional › https://github.com/cotes2020/chirpy-static-assets
 assets:
